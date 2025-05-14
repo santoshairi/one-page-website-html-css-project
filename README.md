@@ -1,20 +1,35 @@
-![Watch Now](./img/Design.jpg)
-# One page Portfolio Website (HTML CSS Project)
-**Watch on YouTube ![YouTube Video Views](https://img.shields.io/youtube/views/ZFQkb26UD1Y?style=social) : https://youtu.be/ZFQkb26UD1Y**
+!# 🤖 AI Automation Portal
 
----
+**Where Machines Think and Ideas Evolve**  
+*Pioneering a smarter, automated tomorrow.*
 
-### Made with ❤️ by [Shaif Arfan](https://www.instagram.com/shaifarfan08/)
+## 🚀 Overview
 
-Like my works and want to support me?
+This project is a modern, responsive homepage designed to showcase AI and automation-driven solutions. It's built with HTML, CSS, and a vision for the future.
 
-<a href="https://www.buymeacoffee.com/shaifarfan08" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 162.75px !important;" ></a>
+## 🌟 Features
 
----
+- Sleek, dark-themed interface
+- Futuristic welcome message
+- Mobile-friendly and responsive layout
+- Easily customizable for your startup or tech project
 
-## Other projects
+## 🛠️ Technologies Used
 
-📚 [All Web Cifar Project Tutorials](https://github.com/ShaifArfan/wc-project-tutorials)
-  
+- HTML5
+- CSS
+- JavaScript (optional for interactivity)
+
+## 🧠 Core Message
+
+> "Where Machines Think and Ideas Evolve"  
+> *Pioneering a smarter, automated tomorrow.*
+
+## 📸 Preview
+
+![Home Page Preview]
+
+## 📂 Project Structure
+
 
 
